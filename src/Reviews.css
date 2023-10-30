@@ -1,0 +1,16 @@
+.card {
+    margin-bottom: 1rem;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+}
+
+.author-name {
+    font-weight: bold;
+}
+
+.subheader {
+    color: #777;
+}
